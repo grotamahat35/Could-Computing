@@ -13,7 +13,7 @@ The dataset used for this project is sourced from Kaggle and contains YouTube Tr
 ### Team Responsibilities:
 Xiaoting Teng: VPC setup and EC2 instance setup with key pairs
 Yiwen Yin: Upload and restore data in S3
-Keqi Yu: Data cleaning in AWS Glue
+Keqi Yu: Data cleaning in AWS Glue       
 Chang Yuan: Data integration from S3 and configuration
 Emily Ziyi Xiao: Classification in SageMaker
 
